@@ -36,5 +36,5 @@ void showData_1301194095(mahasiswa h) {
 
 }
 
-//yg liat github jangn dicopaas ngentot
+//yg liat github gw jangn dicopaas ngentot
 //buat referensi ajg, semua aja lu copas
