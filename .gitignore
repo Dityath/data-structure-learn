@@ -7,3 +7,9 @@
 /tp_1_std/tp_1_std.cbp
 /tp_1_std/tp_1_std.depend
 /tp_1_std/tp_1_std.layout
+
+# tp 2 struktur data
+
+/tp_2_std/cmake-build-debug
+/tp_2_std/.idea
+/tp_2_std/CMakeLists.txt
