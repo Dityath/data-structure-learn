@@ -1,5 +1,11 @@
 /.idea
 
+# random
+
+/assignment/week_2_adt/cmake-build-debug
+/assignment/week_2_adt/.idea
+/assignment/week_2_adt/CMakeLists.txt
+
 # tp 1 struktur data
 
 /tp_1_std/bin
