@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633764089 source:/home/dityath/dataStructure/practicum/mod3/mod3/main.cpp
+	"catalog.h"
+
+1633764155 /home/dityath/dataStructure/practicum/mod3/mod3/include/catalog.h
+	<iostream>
+	<cstdlib>
+
+1633764026 source:/home/dityath/dataStructure/practicum/mod3/mod3/src/catalog.cpp
+	"catalog.h"
+
